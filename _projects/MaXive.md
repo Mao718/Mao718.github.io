@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MaXsive: High-Capacity and Robust Training-Free Generative Image Watermarking in Diffusion Models
+title: MaXsive High-Capacity and Robust Training-Free Generative Image Watermarking in Diffusion Models
 description: with background image
 img: assets/img/publication_preview/MaXive.png
 importance: 1
