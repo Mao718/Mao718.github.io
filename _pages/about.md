@@ -26,4 +26,8 @@ I completed my MSc in Information Science at Kyushu University, Japan supervised
 
 I will join the University of Bath, UK as a Phd student working with Prof. [Davide Moltisanti](https://www.davidemoltisanti.com/research/) and [Vinay Namboodiri](https://vinaypn.github.io/) on interpretable video models.
 
-<span style="color:blue">I am actively seeking internships in generative models' applications and explainable AI. My detailed experience and publications can be found [here](https://mao718.github.io/cv/). Feel free to reach out at **mao.kyushu[AT]gmail.com** for potential collaborations or discussions.</span>
+```markdown
+I am actively seeking internships in generative models' applications and explainable AI. My detailed experience and publications can be found [here](https://mao718.github.io/cv/). Feel free to reach out at **mao.kyushu[AT]gmail.com** for potential collaborations or discussions.
+{: .block-warning }
+```
+
