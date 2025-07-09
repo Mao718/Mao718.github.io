@@ -6,15 +6,34 @@
     "email": "mao.kyushu@gmail.com",
     "url": "https://mao718.github.io/"
   },
+  "education": [
+    {
+      "institution": "Kyushu University",
+      "location": "Fukuoka, Japan",
+      "url": "https://www.kyushu-u.ac.jp/en/",
+      "area": "Information Science",
+      "studyType": "Master",
+      "startDate": "2022-10",
+      "endDate": "2024-09"
+    },
+    {
+      "institution": "National Chung Hsing University",
+      "location": "Taichung, Taiwan",
+      "url": "https://www.nchu.edu.tw/en-index",
+      "area": "Mechanical Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2016-09",
+      "endDate": "2020-06"
+    }
+  ],
   "work": [
     {
       "name": "University of Bath",
-      "position": "Studentship (Part-time)",
+      "position": "Graduate Research Assistant (Part-time)",
       "url": "https://www.bath.ac.uk/",
       "startDate": "2025-09",
       "endDate": "Current",
-      "summary": "URSA PhD Project: Cue representation learning for interpretable video models",
-      "highlights": ["Relativity"]
+      "summary": "URSA PhD Project: Cue representation learning for interpretable video models"
     },
     {
       "name": "Academia Sinica",
@@ -22,8 +41,7 @@
       "url": "https://www.iis.sinica.edu.tw/zh/page/People/ResearchAssistants.html",
       "startDate": "2024-10",
       "endDate": "2025-09",
-      "summary": "Research in Diffusion Model security and applications.",
-      "highlights": ["Relativity"]
+      "summary": "Research in Diffusion Model security and applications."
     },
     {
       "name": "Sony R&D",
@@ -47,26 +65,6 @@
       "highlights": ["Built up an authentication and payment subscription system by integrating Firebase with Strip",
                       "Developed and deployed a comprehensive Python and deep learning instructional website"
     ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "Kyushu University",
-      "location": "Fukuoka, Japan",
-      "url": "https://www.kyushu-u.ac.jp/en/",
-      "area": "Information Science",
-      "studyType": "Master",
-      "startDate": "2022-10",
-      "endDate": "2024-09"
-    },
-    {
-      "institution": "National Chung Hsing University",
-      "location": "Taichung, Taiwan",
-      "url": "https://www.nchu.edu.tw/en-index",
-      "area": "Mechanical Engineering",
-      "studyType": "Bachelor",
-      "startDate": "2016-09",
-      "endDate": "2020-06"
     }
   ],
   "awards": [
