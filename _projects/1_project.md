@@ -9,7 +9,7 @@ related_publications: true
 ---
  
 
-# ![MaXsive](assets/icons/contributions.png) MaXsive High-Capacity and Robust Training-Free Generative Image Watermarking in Diffusion Models ![MaXsive](assets/icons/contributions.png)
+# ![MaXsive](../assets/icons/contributions.png) MaXsive High-Capacity and Robust Training-Free Generative Image Watermarking in Diffusion Models ![MaXsive](../assets/icons/contributions.png)
 
 
 Every project has a beautiful feature showcase page.
