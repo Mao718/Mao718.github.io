@@ -8,8 +8,17 @@
   },
   "work": [
     {
+      "name": "University of Bath",
+      "position": "Studentship (Part-time)",
+      "url": "https://www.bath.ac.uk/",
+      "startDate": "2025-09",
+      "endDate": "Current",
+      "summary": "URSA PhD Project: Cue representation learning for interpretable video models",
+      "highlights": ["Relativity"]
+    },
+    {
       "name": "Academia Sinica",
-      "position": "Research Assistant",
+      "position": "Research Assistant (Full-time)",
       "url": "https://www.iis.sinica.edu.tw/zh/page/People/ResearchAssistants.html",
       "startDate": "2024-10",
       "endDate": "2025-09",
@@ -18,7 +27,7 @@
     },
     {
       "name": "Sony R&D",
-      "position": "Student Research Intern",
+      "position": "Student Research Intern (Part-time)",
       "url": "https://www.sony.com/en/SonyInfo/research/",
       "startDate": "2024-02",
       "endDate": "2024-03",
@@ -30,7 +39,7 @@
     },
     {
       "name": "Kyushu University",
-      "position": "Research Assistant",
+      "position": "Research Assistant (Part-time)",
       "url": "https://lis.inf.kyushu-u.ac.jp/index.php",
       "startDate": "2022-10",
       "endDate": "2024-03",
@@ -74,11 +83,12 @@
       },
     {
       "title": "Best Innovation",
-      "publisher": "2019 National University Industry and Academic Innovation Competition",
+      "awarder": "National University Industry and Academic Innovation Competition",
       "date": "2019"
       },
     {
-      "title": "2019 Taiwan Precision Engineering Technology Symposium Hanmin University Project Competition",
+      "title": "Honorable Mention",
+      "awarder" : "Taiwan Precision Engineering Technology Symposium Hanmin University Project Competition",
       "date": "2019"
       }
   ],
