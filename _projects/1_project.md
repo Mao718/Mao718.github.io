@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
+title: MaXsive High-Capacity and Robust Training-Free Generative Image Watermarking in Diffusion Models
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/publication_preview/MaXive.png
 importance: 1
-category: work
+category: diffusion
 related_publications: true
 ---
 
@@ -20,6 +20,11 @@ To give your project a background in the portfolio page, just add the img tag to
     description: a project with a background image
     img: /assets/img/12.jpg
     ---
+
+<p class="section">
+    <img src="./assets/icons/contributions.png" alt="Contributions" class="image" style="height:2em;">&nbsp;
+    <strong>Key Contributions:</strong>
+</p>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
