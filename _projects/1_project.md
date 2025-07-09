@@ -1,12 +1,16 @@
 ---
 layout: page
-title: MaXsive High-Capacity and Robust Training-Free Generative Image Watermarking in Diffusion Models
-description: with background image
+title: Diffusion Watermarking
+description: 
 img: assets/img/publication_preview/MaXive.png
 importance: 1
 category: diffusion
 related_publications: true
 ---
+ 
+
+# ![MaXsive](assets/icons/contributions.png) MaXsive High-Capacity and Robust Training-Free Generative Image Watermarking in Diffusion Models ![MaXsive](assets/icons/contributions.png)
+
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
@@ -22,7 +26,7 @@ To give your project a background in the portfolio page, just add the img tag to
     ---
 
 <p class="section">
-    <img src="./assets/icons/contributions.png" alt="Contributions" class="image" style="height:2em;">&nbsp;
+    <img src="assets/icons/contributions.png" alt="Contributions" class="image" style="height:2em;">&nbsp;
     <strong>Key Contributions:</strong>
 </p>
 
