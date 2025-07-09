@@ -41,7 +41,7 @@
       "url": "https://www.iis.sinica.edu.tw/zh/page/People/ResearchAssistants.html",
       "startDate": "2024-10",
       "endDate": "2025-08",
-      "summary": "Research in Diffusion Model security and applications."
+      "summary": "Research in Diffusion Models' security and applications."
     },
     {
       "name": "Sony R&D",
@@ -49,7 +49,7 @@
       "url": "https://www.sony.com/en/SonyInfo/research/",
       "startDate": "2024-02",
       "endDate": "2024-03",
-      "summary": "Research in Diffusion Model security and applications.",
+      "summary": "Research in Diffusion Models' applications.",
       "highlights": ["Contributed to a commercial image recognition model by leveraging synthetic data generated through pose, edge, and depth-controlled diffusion models",
                       "Implemented unreleased Diffusion Models and trained them from scratch",
                       "Designed losses to optimize image quality and controllability of controllable diffusion model"
@@ -61,7 +61,6 @@
       "url": "https://lis.inf.kyushu-u.ac.jp/index.php",
       "startDate": "2022-10",
       "endDate": "2024-03",
-      "summary": "Research in Diffusion Model security and applications.",
       "highlights": ["Built up an authentication and payment subscription system by integrating Firebase with Strip",
                       "Developed and deployed a comprehensive Python and deep learning instructional website"
     ]
