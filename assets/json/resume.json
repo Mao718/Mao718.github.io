@@ -62,24 +62,24 @@
   ],
   "awards": [
     {
-      "name": "University PhD Studentship",
-      "publisher": "University of Bath",
-      "releaseDate": "2025"
+      "title": "University PhD Studentship",
+      "awarder": "University of Bath",
+      "date": "2025"
       },
     {
-      "name": "Third Place",
-      "publisher": "Generative AI and LLMs Hackathon",
+      "title": "Third Place",
+      "awarder": "Generative AI and LLMs Hackathon",
       "summary":"Organized by US-JAPAN Collaborative Workshop: Accelerating IC Design Phase II",
-      "releaseDate": "2019"
+      "date": "2019"
       },
     {
-      "name": "Best Innovation",
+      "title": "Best Innovation",
       "publisher": "2019 National University Industry and Academic Innovation Competition",
-      "releaseDate": "2019"
+      "date": "2019"
       },
     {
-      "name": "2019 Taiwan Precision Engineering Technology Symposium Hanmin University Project Competition",
-      "releaseDate": "2019"
+      "title": "2019 Taiwan Precision Engineering Technology Symposium Hanmin University Project Competition",
+      "date": "2019"
       }
   ],
   "languages": [
