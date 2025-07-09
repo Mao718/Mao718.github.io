@@ -9,7 +9,7 @@ related_publications: true
 ---
  
 
-# ![MaXsive](../assets/icons/contributions.png) MaXsive High-Capacity and Robust Training-Free Generative Image Watermarking in Diffusion Models ![MaXsive](../assets/icons/contributions.png)
+# ![MaXsive](../assets/img/icons/massive_topic.png) MaXsive High-Capacity and Robust Training-Free Generative Image Watermarking in Diffusion Models ![MaXsive](../assets/img/icons/massive_topic.png)
 
 
 Every project has a beautiful feature showcase page.
@@ -26,7 +26,7 @@ To give your project a background in the portfolio page, just add the img tag to
     ---
 
 <p class="section">
-    <img src="assets/icons/contributions.png" alt="Contributions" class="image" style="height:2em;">&nbsp;
+    <img src="assets/icons/img/contributions.png" alt="Contributions" class="image" style="height:2em;">&nbsp;
     <strong>Key Contributions:</strong>
 </p>
 
