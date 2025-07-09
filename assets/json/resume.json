@@ -27,14 +27,14 @@
     }
   ],
   "work": [
-    {
-      "name": "University of Bath",
-      "position": "Graduate Research Assistant (Part-time)",
-      "url": "https://www.bath.ac.uk/",
-      "startDate": "2025-09",
-      "endDate": "Current",
-      "summary": "URSA PhD Project: Cue representation learning for interpretable video models"
-    },
+    // {
+    //   "name": "University of Bath",
+    //   "position": "Graduate Research Assistant (Part-time)",
+    //   "url": "https://www.bath.ac.uk/",
+    //   "startDate": "2025-09",
+    //   "endDate": "Current",
+    //   "summary": "URSA PhD Project: Cue representation learning for interpretable video models"
+    // },
     {
       "name": "Academia Sinica",
       "position": "Research Assistant (Full-time)",
