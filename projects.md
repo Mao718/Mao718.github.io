@@ -9,8 +9,6 @@ related_publications: true
 ---
  
 
-# ![MaXsive](../assets/img/icons/massive_topic.png) MaXsive High-Capacity and Robust Training-Free Generative Image Watermarking in Diffusion Models ![MaXsive](../assets/img/icons/massive_topic.png)
-
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
