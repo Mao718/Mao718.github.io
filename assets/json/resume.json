@@ -96,17 +96,17 @@
     {
       "language": "Chinese (mandarin)",
       "fluency": "Native speaker",
-      "icon": ""
+      "icon": "../assets/img/icons/taiwan.png"
     },
     {
       "language": "English",
       "fluency": "Fluent",
-      "icon": ""
+      "icon": "../assets/img/icons/UK.png"
     },
     {
       "language": "Japanese",
       "fluency": "Fluent (N1 Level)",
-      "icon": ""
+      "icon": "../assets/img/icons/japan.png"
     }
   ]
 }
