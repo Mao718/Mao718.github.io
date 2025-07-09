@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have graduated from Kyushu University, Japan.
+Graduate from Kyushu University, Japan.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started working as a research assistant in Academia, Taiwan.
+Start working as a research assistant (Full-time) in Academia, Taiwan.
