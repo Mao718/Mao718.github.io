@@ -25,10 +25,6 @@ To give your project a background in the portfolio page, just add the img tag to
     img: /assets/img/12.jpg
     ---
 
-<p class="section">
-    <img src="assets/icons/img/contributions.png" alt="Contributions" class="image" style="height:2em;">&nbsp;
-    <strong>Key Contributions:</strong>
-</p>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
