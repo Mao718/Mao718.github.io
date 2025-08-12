@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper accepted at ACM MM 2025
+Our paper was accepted to ACM Multimedia 2025—see details on the [project page](https://mao718.github.io/blog/2025/MaXive/).

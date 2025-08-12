@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper accepted at ICCV 2025
+Our paper has been accepted to ICCV 2025!—Read the full paper [here](https://arxiv.org/abs/2505.01104).
